@@ -1,6 +1,6 @@
 # simple-vuex-auth
 
-> SimpleVuexAuth
+Simple authentication example with vue and vuex
 
 ## Build Setup
 
